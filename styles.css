@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.headline {
+    margin: 0 auto;
+    font-size: 32px;
+    color: white;
+    background-color: orange;
+    max-width: 600px;
+}
+
+.recipe {
+    margin: 16px auto;
+    color: black;
+    font-size: 16px;
+    max-width: 410px;
+}
+
+#ramen  {
+    background-color: yellow;
+}
+
+#curry {
+    background-color: orangered;
+}
+
+#prime-rib {
+    background-color: rgb(182, 55, 55);
+}
+
+.dish-name
+.directions
+.ingredients {
+    margin: 50 auto;
+    box-sizing: border-box;
+    font-size: 16px
+}
